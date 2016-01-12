@@ -1,8 +1,0 @@
-次の行を検索機能を使って探します。
-
-<td valign="top" width="435" rowspan="2" >
-
-見つけたら、次のテキストをこの行の下の空いている場所へ貼り付けます。
-
-<img src="SYBcollage.jpg" width="432" height="154" border="0" alt="この夏は、必要とする人のために家を作ろう！" />
-
