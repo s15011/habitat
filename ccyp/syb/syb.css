@@ -20,6 +20,7 @@ h2 {
 	font-size: 120%;
 	margin-bottom: 10px; 
 	font-family: Osaka, 'ＭＳ Ｐゴシック', sans-serif;
+  color: purple;
     }
 
 h3 {
@@ -28,14 +29,15 @@ h3 {
 	font-size: 100%;
 	margin-bottom: 10px; 
 	font-family: Osaka, 'ＭＳ Ｐゴシック', sans-serif;
+  color: purple;
     }
 
 
-/*
- a {
+
+a {
    color: #093
    }
-*/
+
 
 
 #container {
